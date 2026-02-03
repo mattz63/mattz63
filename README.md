@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Cytometry in R 
+- Location: NY, NY
+- Favorite Fluorophore: SparkViolet423
+- Previous Coding Experience: Java programming 20+ years ago
+- What I Hope to Get From This Course: learning R via my best skillset, flow cytometry
 <!--
 **mattz63/mattz63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
